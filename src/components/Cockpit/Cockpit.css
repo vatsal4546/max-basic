@@ -1,0 +1,35 @@
+.personState {
+    background-color: green;
+    border: 1px solid blue;
+    padding: 8px;
+    cursor: pointer;
+    text-align: center;
+    margin: 'center';
+}
+
+.personState:hover {
+background-color: lightgreen
+}
+
+.notPersonState {
+background-color: red;
+border: 1px solid blue;
+padding: 8px;
+cursor: pointer;
+text-align: center;
+margin: 'center';
+}
+
+.notPersonState:hover {
+background-color: salmon;
+color: white
+}
+
+.blue {
+    color : blue!important
+  }
+  
+  .fc {
+    color: brown;
+    font-size: 18px
+  }
